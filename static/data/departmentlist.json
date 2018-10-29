@@ -1,0 +1,93 @@
+{
+    "treedata": [{
+        "label": "广西交通厅",
+        "pid": 0,
+        "children": [{
+                "label": "公安局",
+                "pid": 1
+            },
+            {
+                "label": "路管局",
+                "pid": 2
+            },
+            {
+                "label": "公路局",
+                "pid": 3
+            }
+        ]
+    }],
+    "tableData": [{
+        "name": "公安局",
+        "code": "100000",
+        "parentdepartment": "广西交通厅",
+        "remark": "公安局",
+        "pid": "0"
+    }, {
+        "name": "路管局",
+        "code": "200000",
+        "parentdepartment": "广西交通厅",
+        "remark": "路管局",
+        "pid": "0"
+    }, {
+        "name": "公路局",
+        "code": "300000",
+        "parentdepartment": "广西交通厅",
+        "remark": "公路局",
+        "pid": "0"
+    }, {
+        "name": "公安局",
+        "code": "100000",
+        "parentdepartment": "广西交通厅",
+        "remark": "公安局",
+        "pid": "0"
+    }, {
+        "name": "路管局",
+        "code": "200000",
+        "parentdepartment": "广西交通厅",
+        "remark": "路管局",
+        "pid": "0"
+    }, {
+        "name": "公路局",
+        "code": "300000",
+        "parentdepartment": "广西交通厅",
+        "remark": "公路局",
+        "pid": "0"
+    }, {
+        "name": "公安局",
+        "code": "100000",
+        "parentdepartment": "广西交通厅",
+        "remark": "公安局",
+        "pid": "0"
+    }, {
+        "name": "路管局",
+        "code": "200000",
+        "parentdepartment": "广西交通厅",
+        "remark": "路管局",
+        "pid": "0"
+    }, {
+        "name": "路管局",
+        "code": "200000",
+        "parentdepartment": "广西交通厅",
+        "remark": "路管局",
+        "pid": "0"
+    }, {
+        "name": "路管局",
+        "code": "200000",
+        "parentdepartment": "广西交通厅",
+        "remark": "路管局",
+        "pid": "0"
+    }]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

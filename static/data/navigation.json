@@ -1,0 +1,312 @@
+{
+    "treedata": [
+        {
+            "value":"LM",
+            "label": "自定义导航",
+            "children": [
+                {
+                    "value": "ZT",
+                    "label": "数据类别",
+                    "pid": 1
+                },
+                {
+                    "value": "ZM",
+                    "label": "业务系统",
+                    "pid": 1
+                },
+                {
+                    "value": "FW",
+                    "label": "服务",
+                    "pid": 1
+                },
+                {
+                    "value": "GJ",
+                    "label": "关键字",
+                    "pid": 1
+                }
+            ]
+        }
+    ],
+    "tableData": [
+        {
+            "navigationName": "数据类别",
+            "navigationCode": "ZT",
+            "superiorNgName": "自定义导航",
+            "superiorNgCode": "LM",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "数据类别",
+            "superiorNgCode": "ZT",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "字符串",
+            "navigationCode": "text",
+            "superiorNgName": "数据类别",
+            "superiorNgCode": "ZT",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "自定义",
+            "navigationCode": "text",
+            "superiorNgName": "数据类别",
+            "superiorNgCode": "ZT",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "接口",
+            "navigationCode": "text",
+            "superiorNgName": "数据类别",
+            "superiorNgCode": "ZT",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "接口",
+            "navigationCode": "text",
+            "superiorNgName": "数据类别",
+            "superiorNgCode": "ZT",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "接口",
+            "navigationCode": "text",
+            "superiorNgName": "数据类别",
+            "superiorNgCode": "ZT",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "业务系统",
+            "navigationCode": "ZM",
+            "superiorNgName": "自定义导航",
+            "superiorNgCode": "LM",
+            "entryPeople": "王五",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "水毁管理系统",
+            "navigationCode": "text",
+            "superiorNgName": "业务系统",
+            "superiorNgCode": "ZM",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "水毁管理系统",
+            "navigationCode": "text",
+            "superiorNgName": "业务系统",
+            "superiorNgCode": "ZM",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "农村公路养护管理信息系统",
+            "navigationCode": "text",
+            "superiorNgName": "业务系统",
+            "superiorNgCode": "ZM",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "水毁管理系统",
+            "navigationCode": "text",
+            "superiorNgName": "业务系统",
+            "superiorNgCode": "ZM",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "水毁管理系统",
+            "navigationCode": "text",
+            "superiorNgName": "业务系统",
+            "superiorNgCode": "ZM",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "水毁管理系统",
+            "navigationCode": "text",
+            "superiorNgName": "业务系统",
+            "superiorNgCode": "ZM",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "水毁管理系统",
+            "navigationCode": "text",
+            "superiorNgName": "业务系统",
+            "superiorNgCode": "ZM",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "水毁管理系统",
+            "navigationCode": "text",
+            "superiorNgName": "业务系统",
+            "superiorNgCode": "ZM",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "服务",
+            "navigationCode": "FW",
+            "superiorNgName": "自定义导航",
+            "superiorNgCode": "LM",
+            "entryPeople": "王五",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "服务",
+            "superiorNgCode": "FW",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "服务",
+            "superiorNgCode": "FW",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "服务",
+            "superiorNgCode": "FW",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "服务",
+            "superiorNgCode": "FW",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "服务",
+            "superiorNgCode": "FW",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "服务",
+            "superiorNgCode": "FW",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "服务",
+            "superiorNgCode": "FW",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "服务",
+            "superiorNgCode": "FW",
+            "entryPeople": "张三",
+            "entryTime": "2018/1/15"
+        },   
+        {
+            "navigationName": "关键字",
+            "navigationCode": "GJ",
+            "superiorNgName": "自定义导航",
+            "superiorNgCode": "LM",
+            "entryPeople": "王五",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "关键字",
+            "superiorNgCode": "GJ",
+            "entryPeople": "王五",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "关键字",
+            "superiorNgCode": "GJ",
+            "entryPeople": "王五",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "关键字",
+            "superiorNgCode": "GJ",
+            "entryPeople": "王五",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "关键字",
+            "superiorNgCode": "GJ",
+            "entryPeople": "王五",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "关键字",
+            "superiorNgCode": "GJ",
+            "entryPeople": "王五",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "关键字",
+            "superiorNgCode": "GJ",
+            "entryPeople": "王五",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "关键字",
+            "superiorNgCode": "GJ",
+            "entryPeople": "王五",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "关键字",
+            "superiorNgCode": "GJ",
+            "entryPeople": "王五",
+            "entryTime": "2018/1/15"
+        },
+        {
+            "navigationName": "文本",
+            "navigationCode": "text",
+            "superiorNgName": "关键字",
+            "superiorNgCode": "GJ",
+            "entryPeople": "王五",
+            "entryTime": "2018/1/15"
+        }
+    ]
+}

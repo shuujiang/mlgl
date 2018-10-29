@@ -1,0 +1,26 @@
+{
+    "data":[
+        {
+            "propnum":"schema_name",
+            "propname":"名称",
+            "readonly":"否",
+            "empty":"否",
+            "fieldclass":"字符串",
+            "defaultvalue":"",
+            "fieldlength":"64",
+            "displayorder":"1",
+            "editcontrl":"文本框"
+        },
+        {
+            "propnum":"schema_desc",
+            "propname":"描述",
+            "readonly":"否",
+            "empty":"是",
+            "fieldclass":"字符串",
+            "defaultvalue":"",
+            "fieldlength":"200",
+            "displayorder":"2",
+            "editcontrl":"多行文本框"
+        }
+    ]
+}

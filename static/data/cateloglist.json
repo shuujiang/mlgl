@@ -1,0 +1,109 @@
+{
+    "treedata": [
+        {
+            "value":"LM",
+            "label": "类目",
+            "pid": 0,
+            "children": [
+                {
+                    "value": "ZT",
+                    "label": "主题分类",
+                    "pid": 1,
+                    "children": [{
+                        "value": "GY",
+                        "label": "工业、交通",
+                        "pid": 2
+                    }]
+                }
+            ]
+        },{
+            "value": "QT",
+            "label": "其他分类",
+            "pid":3,
+            "children": [{
+                "value": "QT",
+                "label": "其他",
+                "pid": 4
+            }]
+        }
+    ],
+    "tableData": [
+        {
+            "directoryName": "户籍基本信息",
+            "directoryCode": "04010001",
+            "departmentName":"公路局",
+            "departmentCode":"xxxxxx",
+            "categoryName": "工业、交通",
+            "categoryCode": ["LM", "ZT", "GY"],
+            "applyTime": "2018年1月1日",
+            "entryTime": "2018年1月15日",
+            "applicant":"sss",
+            "state":"待提交",
+            "keywords":"ccc",
+            "reviewer":"张三",
+            "reviewTime":"2018年1月4日",
+            "reviewStatus": "审核通过",
+            "auditOpinion":"",              
+            "releasePeople":"李四",
+            "releaseTime":"2018年1月5日",
+            "releaseStatus": "已发布",
+            "refundPeople":"王五",
+            "refundTime":"2018年1月25日",
+            "refundStatus":"已退回",
+            "publishOpinion": "",
+            "updateCycle": 0,
+            "dataItem":[],
+            "browse":20 ,
+            "download":5,    
+            "openType":true,
+            "instructions": "",
+            "remark":"",
+            "backupName": "2018年第一版备份",
+            "backupCode": "201801010001",
+            "backupTime": "2018/1/15",
+            "backupPeople": "张三",
+            "backupInstructions": "2018年第一版备份",
+            "cancellationPeople":"张三",
+            "cancellationTime":"2018/1/15",
+            "cancellationwhy":"因该资料已过期,所以注销"
+        },
+        {
+            "directoryName": "家庭成员信息",
+            "directoryCode": "04020001",
+            "departmentName":"运管局",
+            "categoryName": "工业、交通",
+            "categoryCode": ["LM", "ZT", "GY"],
+            "entryTime": "2018年1月15日",
+            "applicant":"sss",
+            "applyTime": "2018年1月1日",            
+            "reviewer":"张三",
+            "reviewTime":"2018年1月4日",
+            "reviewStatus": "审核通过",
+            "auditOpinion":"",               
+            "releasePeople":"李四",
+            "releaseTime":"2018年1月5日",
+            "releaseStatus": "已发布",
+            "refundPeople":"王五",
+            "refundTime":"2018年1月25日",
+            "refundStatus":"已退回",
+            "publishOpinion": "",            
+            "state":"待提交",
+            "keywords":"ggg",
+            "dataItem":[],
+            "browse":20 ,
+            "download":5,    
+            "updateCycle": 0,
+            "openType":true,
+            "instructions": "",
+            "remark":"",
+            "backupName": "2018年第一版备份",
+            "backupCode": "201801010001",
+            "backupTime": "2018/1/15",
+            "backupPeople": "张三",
+            "backupInstructions": "2018年第一版备份",
+            "cancellationPeople":"李四",
+            "cancellationTime":"2018/1/15",
+            "cancellationwhy":"因该资料已过期,所以注销"
+        }
+    ]
+}

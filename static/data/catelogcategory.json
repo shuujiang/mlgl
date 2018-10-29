@@ -1,0 +1,86 @@
+{
+    "treedata": [
+        {
+            "value":"A001",
+            "label": "类目",
+            "pid": 0,
+            "children": [
+                {
+                    "value": "B001",
+                    "label": "主题分类",
+                    "pid": 1,
+                    "children": [{
+                        "value": "C001",
+                        "label": "工业、交通",
+                        "pid": 2
+                    }]
+                }
+            ]
+        },{
+            "value": "A002",
+            "label": "其他分类",
+            "pid":0,
+            "children": [{
+                "value": "B002",
+                "label": "其他",
+                "pid": 1
+            }]
+        }
+    ],
+    "tableData": [
+        {
+            "categoryName": "主题分类",
+            "categoryCode": "ZTA00",
+            "parentName": "类目",
+            "parentCode": "A001",
+            "entryPerson": "张三",
+            "entryTime": "2018年1月15日",
+            "instructions": ""
+        },
+        {
+            "categoryName": "工业、交通",
+            "categoryCode": "ZCA00",
+            "parentName": "主题分类",
+            "parentCode": "B001",
+            "entryPerson": "张三",
+            "entryTime": "2018年1月15日",
+            "instructions": ""
+        },
+        {
+            "categoryName": "工交综合类",
+            "categoryCode": "ZDA00",
+            "parentName": "工业、交通",
+            "parentCode": "C001",
+            "entryPerson": "张三",
+            "entryTime": "2018年1月15日",
+            "instructions": ""
+        },
+        {
+            "categoryName": "工业",
+            "categoryCode": "ZDB00",
+            "parentName": "工业、交通",
+            "parentCode": "C001",
+            "entryPerson": "张三",
+            "entryTime": "2018年1月15日",
+            "instructions": ""
+        },
+        {
+            "categoryName": "企业",
+            "categoryCode": "ZDC00",
+            "parentName": "工业、交通",
+            "parentCode": "C001",
+            "entryPerson": "张三",
+            "entryTime": "2018年1月15日",
+            "instructions": ""
+        },
+        {
+            "categoryName": "交通运输",
+            "categoryCode": "ZDD00",
+            "parentName": "工业、交通",
+            "parentCode": "C001",
+            "entryPerson": "张三",
+            "entryTime": "2018年1月15日",
+            "instructions": ""
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "treedata": [
+        {
+            "value":"LM",
+            "label": "类目",
+            "pid": 0,
+            "children": [
+                {
+                    "value": "ZT",
+                    "label": "主题分类",
+                    "pid": 1,
+                    "children": [{
+                        "value": "GY",
+                        "label": "工业、交通",
+                        "pid": 2
+                    }]
+                }
+            ]
+        },{
+            "value": "QT",
+            "label": "其他分类",
+            "pid":3,
+            "children": [{
+                "value": "QT",
+                "label": "其他",
+                "pid": 4
+            }]
+        }
+
+    ],
+    "tableData": [
+        {
+            "backupName": "2018年第一版备份",
+            "backupCode": "201801010001",
+            "backupTime": "2018/1/15",
+            "backupPeople": "张三",
+            "backupInstructions": "2018年第一版备份",
+            "pid": "000"
+        },
+        {
+            "backupName": "2018年第二版备份",
+            "backupCode": "201801010002",
+            "backupTime": "2018/1/15",
+            "backupPeople": "李四",
+            "backupInstructions": "2018年第二版备份",
+            "pid": "000"
+        }
+    ]
+} 

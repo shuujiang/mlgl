@@ -1,0 +1,113 @@
+{
+    "treedata": [
+        {
+            "label": "数据资源目录",
+            "value": "0",
+            "children": [
+                {
+                    "label": "综合政务",
+                    "value": "ccccc",
+                    "children": [{
+                        "label": "政务综合类",
+                        "value": "aaaaa"
+                    }]
+                },
+                {
+                    "label": "经济管理",
+                    "value": "sdsds"
+                },
+                {
+                    "label": "信息产业",
+                    "value": "wwwww"
+                }
+            ]
+        }
+
+    ],
+    "tableData": [
+        {
+            "code": "201801010001",            
+            "name": "姓名",
+            "enName": "cxcxc",
+            "dataType": "text",  
+            "dataLength": "10",
+            "domain": "aa",
+            "shared":0, 
+            "openType": 0,   
+            "updateCycle":0,
+            "standard": "GB/T 21063.4--2007",
+            "metadata":"",                                
+            "departmentName": "公路局",
+            "departmentCode": "xxx",
+            "shortname": "XM",
+            "directoryName": "政务综合类",
+            "directorycode": "aaaaa",
+            "instructions": "姓名",
+            "searchTtem": true,
+            "pid": "00"
+        },
+        {
+            "code": "201801010001",            
+            "name": "姓名",
+            "enName": "cxcxc",
+            "dataType": "text",  
+            "dataLength": "10",
+            "domain": "aa",
+            "shared":0, 
+            "openType": 0,   
+            "updateCycle":0,
+            "standard": "GB/T 21063.4--2007",
+            "metadata":"",                                
+            "departmentName": "公路局",
+            "departmentCode": "xxx",
+            "shortname": "XM",
+            "directoryName": "综合政务",
+            "directorycode": "ccccc",
+            "instructions": "姓名",
+            "searchTtem": true,
+            "pid": "00"
+        },
+        {
+            "code": "201801010002",
+            "name": "违章是否处理",
+            "enName": "sxss",
+            "dataType": "text",  
+            "dataLength": "10",
+            "domain": "aa",
+            "shared":0,
+            "openType": 0,
+            "updateCycle":0,                               
+            "standard": "GB/T 21063.4--2007",
+            "metadata":"",                
+            "departmentName": "运管局",
+            "departmentCode": "ffgfgf",
+            "shortname": "WZSFCL",
+            "directoryName": "信息产业",
+            "directorycode": "wwwww",
+            "instructions": "违章是否处理",
+            "searchTtem": false,            
+            "pid": "01"
+        },
+        {
+            "code": "201801010003",
+            "name": "违章是否处理",
+            "enName": "sxss",
+            "dataType": "text",  
+            "dataLength": "10",
+            "domain": "aa",
+            "shared":0,
+            "openType": 0,
+            "updateCycle":0,                               
+            "standard": "GB/T 21063.4--2007",
+            "metadata":"",                
+            "departmentName": "运管局",
+            "departmentCode": "ffgfgf",
+            "shortname": "WZSFCL",
+            "directoryName": "经济管理",
+            "directorycode": "sdsds",
+            "instructions": "违章是否处理",
+            "searchTtem": false,            
+            "pid": "01"
+        }
+    ]
+}
